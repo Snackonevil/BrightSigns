@@ -1,5 +1,5 @@
 .Hero {
-    display: absolute;
+    display: flex;
     height: 1620px;
     width: 2880px;
     background-color: red;
