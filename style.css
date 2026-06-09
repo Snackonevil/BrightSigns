@@ -5,6 +5,8 @@ body {
     height: 100vh;
     width: 100vw;
     background-color: blue;
+    align-items: center;
+    justify-content: center;
 }
 
 .Hero {
@@ -13,6 +15,4 @@ body {
     color:white;
     font-size: 72px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    align-items: center;
-    justify-content: center;
 }
