@@ -1,7 +1,7 @@
 .Hero {
     display: flex;
-    height: 1620px;
-    width: 2880px;
+    height: 100%;
+    width: 100%;
     background-color: blue;
     margin: 0;
     color:white;
