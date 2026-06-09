@@ -3,6 +3,7 @@
     height: 1620px;
     width: 2880px;
     background-color: red;
+    border: 5px solid black;
     margin: 0;
     color:white;
     font-size: 72px;
